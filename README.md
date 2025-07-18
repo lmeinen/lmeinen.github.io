@@ -2,7 +2,7 @@
 
 _CS student at ETH Zurich and backend software engineer_ <br>
 
-[Email](mailto:lmeinen@ethz.ch) / [LinkedIn](https://www.linkedin.com/in/lasse-meinen-b71a76156/) / [GitHub](https://github.com/lmeinen) 
+[Email](mailto:lasse.meinen@proton.me) / [LinkedIn](https://www.linkedin.com/in/lasse-meinen/) / [GitHub](https://github.com/lmeinen) 
 
 ## Engineering Experience
 
