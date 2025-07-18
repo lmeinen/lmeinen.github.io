@@ -1,17 +1,19 @@
 # Lasse Meinen
 
-_CS student at ETH Zurich and backend software engineer_ <br>
+_Software Engineer interested in Security, Performance Optimization, and Game Development_ <br>
 
 [Email](mailto:lasse.meinen@proton.me) / [LinkedIn](https://www.linkedin.com/in/lasse-meinen/) / [GitHub](https://github.com/lmeinen) 
 
 ## Engineering Experience
 
-**Backend Engineer** @ [Ubique Innovation AG](https://www.ubique.ch/) _(Mar 2021 - Present)_ <br>
+**Backend Engineer** @ [Ubique Innovation AG](https://www.ubique.ch/) _(Mar 2021 - May 2025)_ <br>
 App-development company responsible for many well-known mobile applications, such as MeteoSwiss, CovidCertificate, or EchoSOS.
-  - Database and API design and implementation
-  - Contribution to full development lifecycle, including planning and implementation phases
+  - Design, implementation, and maintenance of backend systems, including databases and APIs of mobile and web applications
+  - Contribution to the full development lifecycle of various widely-used mobile applications such as MeteoSwiss, CovidCertificate, EchoSOS, the new Post Preview app, and a new E-ID (Heidi Universe, <i>Sprind</i> innovation project) wallet
   - Communication and coordination with other teams
-  - **_Technologies used:_** Java, Maven, Spring Boot, MongoDB, PostgreSQL, Docker, Rust.
+  - Responsible for an extensive technological migration of the MeteoSwiss backend, ensuring the compatibility and stability of the entire system
+  - Significant contribution to the development of the new Post Preview app over the course of nine months
+  - **_Technologies used:_** Java, Spring Boot, Maven, Kafka, Kubernetes.
 <br><br>
 
 ## Additional Experience
@@ -56,7 +58,7 @@ An event for everyone who wants to learn, get inspired or build valuable relatio
 ## Education
 
 **Master of Science** in Computer Science with focus Secure and Reliable Systems<br>
-[ETH Zurich](https://ethz.ch/) - Zurich, Switzerland _(Sep 2021 - Present)_
+[ETH Zurich](https://ethz.ch/) - Zurich, Switzerland _(Sep 2021 - April 2024)_
 
 **Bachelor of Science** in Computer Science<br>
 [ETH Zurich](https://ethz.ch/) - Zurich, Switzerland _(Sep 2017 - Sep 2021)_
