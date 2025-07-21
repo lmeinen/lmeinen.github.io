@@ -1,7 +1,6 @@
 # Lasse Meinen
 
-_Software Engineer interested in Security, Performance Optimization, and Game Development_ <br>
-_Based in Zurich, Switzerland_ <br>
+_Software Engineer interested in Security, Performance Optimization, and Game Development based in Zurich, Switzerland._ <br>
 
 [Email](mailto:lasse.meinen@proton.me) / [LinkedIn](https://www.linkedin.com/in/lasse-meinen/) / [GitHub](https://github.com/lmeinen) 
 
@@ -26,31 +25,31 @@ Built the game [Hammer Time!](https://lonely-hermit.itch.io/hammertime) as part 
 
 **Teaching Assistant** @ [ETH Zurich](https://ethz.ch/) _(Feb 2019 - Jul 2019, Feb 2020 - Dec 2020)_ <br>
 Teaching assistance in bachelor-level courses **Parallel Programming** and **Systems Programming**.
-  - Correcting weekly exercises
-  - Preparing and teaching weekly exercise sessions
-  - Preparing and teaching a 5-day exam preparation workshop, including script, exercises, and slides
+  - Corrected weekly exercises
+  - Prepared and taught weekly exercise sessions
+  - Prepared and taught a 5-day exam preparation workshop, including script, exercises, and slides
 <br><br>
 
 **Supervisor** @ [LINK Market Research Institute](https://www.link.ch/) _(Feb 2018 - Jan 2019)_ <br>
 A market research company responsible for many population surveys at national level, such as the [SAKE](https://www.bfs.admin.ch/bfs/de/home/statistiken/arbeit-erwerb/erhebungen/sake.html).
-  - Supervising a team of 20-40 interviewers
-  - Ensuring a high qualitative and quantitative standard
+  - Supervised a team of 20-40 interviewers
+  - Ensured a high qualitative and quantitative standard
   - Administrative tasks
 <br><br>
 
 ## Volunteering
 
 **Board Member** @ [VIS - Verein der Informatik Studierenden](https://vis.ethz.ch/) _Feb 2020 - Mar 2021_ <br>
-Association for Computer Science students at ETH Zurich.
-  - Discussing and voting on many strategical, sociopolitical, and financial issues
-  - Organizing social Christmas/Easter events for students, among others
-  - Guiding interested people around during taster days
+Association for Computer Science students at [ETH Zurich](https://ethz.ch).
+  - Discussed and voted on many strategical, sociopolitical, and financial issues
+  - Organized social Christmas/Easter events for students, among others
+  - Guided interested people around during taster days
 <br><br>
 
 **Chief of Staff** @ [VIScon](https://viscon.vis.ethz.ch/) _(Mar 2020 - Oct 2020)_ <br>
 An event for everyone who wants to learn, get inspired or build valuable relationships in the fields of Computer Science, Engineering, and Entrepreneurship.
-  - Managing all things helpers: Motivating and gathering people, scheduling their workloads, ensuring good mood in the staff room during the event
-  - Aiding in the selection of talks and workshops
+  - Managed all things helpers: Motivated and gathered people, scheduled their workloads, ensured good mood in the staff room during the event
+  - Aided in the selection of talks and workshops
 <br><br>
 
 ## Languages
