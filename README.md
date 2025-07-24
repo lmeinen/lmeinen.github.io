@@ -20,13 +20,6 @@ the first few thousand users
 
 ## Additional Experience
 
-**Game Developer** @ [Game Programming Laboratory](https://gtc.inf.ethz.ch/education/game-programming-laboratory.html) _(Mar 2023 - May 2023)_ <br>
-Built the game [Hammer Time!](https://lonely-hermit.itch.io/hammertime) as part of a semester project at [ETH Zurich](https://ethz.ch).
-  - Refactored the project's codebase to leverage the MonoGame framework's built-in game loop mechanics and to ensure consistent code style
-  - As one of two programmers, added a multitude of features and bug fixes, including collision detection, dynamic map behavior, and intuitive controller support
-  - Coordinated tasks and communication within the team
-  - **Technologies used:** C#, MonoGame
-
 **Teaching Assistant** @ [ETH Zurich](https://ethz.ch/) _(Feb 2019 - Jul 2019, Feb 2020 - Dec 2020)_ <br>
 Provided teaching assistance in bachelor-level courses *Parallel Programming*
 and *Systems Programming*
@@ -80,14 +73,14 @@ Thesis: [_Verification^2 of the Authentic Digital EMblem (ADEM)_](https://ethz.c
 <br><br>
 
 ## Projects
-[**Do You Believe In Bubbles**](https://globalgamejam.org/games/2025/untitled-bubbles-3) _(Jan 2025)_ <br>
+**Do You Believe In Bubbles** ([link](https://globalgamejam.org/games/2025/untitled-bubbles-3)) _(Jan 2025)_ <br>
 Collaboratively developed a game prototype with a four-person team during the Global Game Jam in January 2025
 - Collaborated in a diverse team of four, emphasizing the importance of proactive communication and clearly defined responsibilities to ensure smooth teamwork
 - Discovered the capabilities of a full-featured game engine under tight time constraints, e.g., to rapidly implement dynamic asset loading via object layers
 - Experimented with randomized pitch variations to prevent the sound of hundreds of popping bubbles less repetitive
 <br><br>
 
-[**Hammer Time!**](https://lonely-hermit.itch.io/hammertime) _(Mar 2023 - May 2023)_ <br>
+**Hammer Time!** ([link](https://lonely-hermit.itch.io/hammertime)) _(Mar 2023 - May 2023)_ <br>
 Developed a local player-vs-player party game over a three-month semester project at ETH Zurich as part of a five-person team
 - Refactored an increasingly complex codebase to utilize MonoGame’s built-in game loop mechanics and enforce consistent code style
 - Implemented core gameplay features and resolved critical bugs, including collision detection, dynamic map behavior, and controller support
