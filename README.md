@@ -36,7 +36,7 @@ Java | Spring Boot | Kafka | SQL | Kubernetes
 C# | MonoGame | Unity
 
 #### Familiar Technologies
-C++ | Rust | Python
+C++ | Rust | Python | TypeScript
 <br><br>
 
 ## Languages
@@ -51,11 +51,13 @@ C++ | Rust | Python
 ## Education
 
 **Master in Computer Science** with a focus on Secure and Reliable Systems<br>
-[ETH Zurich](https://ethz.ch/) - Zurich, Switzerland _(Sep 2021 - Apr 2024)_ <br>
+[ETH Zurich](https://ethz.ch/) - Zurich, Switzerland _(Sep 2021 - Apr 2024)_ 
+<br>
 Master Thesis: [Formal verification of an implementation of the Authentic Digital EMblem](https://ethz.ch/content/dam/ethz/special-interest/infk/chair-program-method/pm/documents/Education/Theses/Lasse_Meinen_MA_Description.pdf) (ADEM) developed by the Centre for Cyber Trust on behalf of International Committee of the Red Cross <br>
 
 **Bachelor in Computer Science**<br>
-[ETH Zurich](https://ethz.ch/) - Zurich, Switzerland _(Sep 2017 - Sep 2021)_<br>
+[ETH Zurich](https://ethz.ch/) - Zurich, Switzerland _(Sep 2017 - Sep 2021)_
+<br>
 Bachelor Thesis: Developed a learning environment for gymnasium-level computer science classes over the course of six months using Typescript and React framework<br>
 
 **International Exchange** studying Computer Science<br>
@@ -71,7 +73,7 @@ Built a functional game prototype in 48 hours with a group of unfamiliar teammat
 Link: [https://globalgamejam.org/games/2025/untitled-bubbles-3](https://globalgamejam.org/games/2025/untitled-bubbles-3)
 <br><br>
 
-**Hammer Time!** @ Game Lab ETH Zürich () _(Mar 2023 - May 2023)_ <br>
+**Hammer Time!** @ Game Lab ETH Zürich _(Mar 2023 - May 2023)_ <br>
 Developed a multiplayer party game in a new team using unfamiliar technology, awarded third prize by a professional game studio.
 - Led project planning and coordination under tight academic deadlines and shifting team availability
 - Overcame a steep learning curve with a new programming language and framework to deliver a stable prototype on time
@@ -82,9 +84,9 @@ Link: [https://lonely-hermit.itch.io/hammertime](https://lonely-hermit.itch.io/h
 
 ## Volunteering
 
-**Board Member** @ [VIS - Verein der Informatik Studierenden](https://vis.ethz.ch/) _Feb 2020 - Mar 2021_ <br>
+**Board Member** @ [VIS - Verein der Informatik Studierenden](https://vis.ethz.ch/) _(Feb 2020 - Mar 2021)_ <br>
 Served as board member and vice-president of a student association at ETH Zurich representing over 1000 members
-Participated in decision-making on strategic, sociopolitical, and financial matters affecting the student body
+- Participated in decision-making on strategic, sociopolitical, and financial matters affecting the student body
 - Planned and executed large-scale social events such as Christmas and Easter gatherings, attracting hundreds of attendees
 - Managed infrastructure and internal communication efforts during the COVID-19 pandemic, ensuring operational continuity
 <br><br>
